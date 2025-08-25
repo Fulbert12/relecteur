@@ -1,5 +1,4 @@
 import streamlit as st
-from tkinter import filedialog, messagebox
 from docx import Document
 from docx.oxml.ns import qn
 from docx.oxml.text.paragraph import CT_P
